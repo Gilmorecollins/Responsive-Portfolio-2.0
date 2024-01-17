@@ -46,6 +46,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Email: collinskorirpk37.ck"gmail.com
+- Email: collinskorirpk37.ck@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gilmore-collins-0456a3245/)
 - Twitter: [@your_twitter_handle](https://twitter.com/_korir_)
